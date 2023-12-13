@@ -9,4 +9,4 @@ or use this link by using wget command:
 https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.  
 
 ## Method
-In this project, the method used for image classification is Convolutional Neural Network (CNN) model.
+In this project, the method used for image classification is **Convolutional Neural Network (CNN) model**.
